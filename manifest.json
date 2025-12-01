@@ -1,0 +1,11 @@
+{
+  "domain": "ollama_proxy_conversation",
+  "name": "Ollama Proxy Conversation",
+  "version": "0.0.1",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": ["conversation"],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "codeowners": []
+}
